@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1614691765 source:d:\essfar\essfar_l2\semestre_2\c++\utils\funct.cpp
+	"funct.h"
+
+1614690901 d:\essfar\essfar_l2\semestre_2\c++\utils\funct.h
+
+1614691765 source:d:\essfar\essfar_l2\semestre_2\c++\tp\utils\funct.cpp
+	"funct.h"
+
+1614690901 d:\essfar\essfar_l2\semestre_2\c++\tp\utils\funct.h
+
+1614691765 source:d:\essfar\l2\semestre_2\c++\tp\utils\funct.cpp
+	"funct.h"
+
+1614690901 d:\essfar\l2\semestre_2\c++\tp\utils\funct.h
+
+1615905502 source:d:\essfar\l2\semestre_2\c++\tp\utils\src\point.cpp
+	<iostream>
+	<cmath>
+	"Point.h"
+
+1615905485 d:\essfar\l2\semestre_2\c++\tp\utils\include\point.h
+
+1615905578 source:d:\essfar\l2\semestre_2\c++\tp\utils\main.cpp
+	<iostream>
+	<string>
+	"funct.h"
+	"Point.h"
+

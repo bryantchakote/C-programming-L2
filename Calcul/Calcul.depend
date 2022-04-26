@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614093685 source:d:\essfar\essfar_l2\semestre_2\c++\calcul\main.cpp
+	<iostream>
+	<cstdlib>
+

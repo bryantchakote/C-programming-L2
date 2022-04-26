@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1617110654 source:/media/compscience/My Data/Mike/2020/ESSFAR/NombresComplexes/autres.cpp
+	"autres.h"
+	<iostream>
+
+1617110658 /media/compscience/My Data/Mike/2020/ESSFAR/NombresComplexes/autres.h
+	"complexe.h"
+
+1617111096 /media/compscience/My Data/Mike/2020/ESSFAR/NombresComplexes/include/complexe.h
+
+1617110995 source:/media/compscience/My Data/Mike/2020/ESSFAR/NombresComplexes/main.cpp
+	<iostream>
+	"complexe.h"
+	"autres.h"
+
+1617111086 source:/media/compscience/My Data/Mike/2020/ESSFAR/NombresComplexes/src/complexe.cpp
+	"complexe.h"
+	<iostream>
+	<cmath>
+

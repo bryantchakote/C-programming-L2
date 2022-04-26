@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1620718033 source:d:\essfar\l2\semestre_2\programmation en c++\tp\polynomes\main.cpp
+	<iostream>
+	"include/polynome.h"
+
+1619525280 d:\essfar\l2\semestre_2\programmation en c++\tp\polynomes\include\polynome.h
+	<vector>
+
+1620718543 source:d:\essfar\l2\semestre_2\programmation en c++\tp\polynomes\src\polynome.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<climits>
+	"../include/polynome.h"
+

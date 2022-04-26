@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1617120006 source:d:\essfar\l2\semestre_2\c++\tp\nombres_complexes\main.cpp
+	<iostream>
+	"Complexe.h"
+
+1617367398 d:\essfar\l2\semestre_2\c++\tp\nombres_complexes\include\complexe.h
+	<cmath>
+
+1617119585 source:d:\essfar\l2\semestre_2\c++\tp\nombres_complexes\src\complexe.cpp
+	<iostream>
+	"Complexe.h"
+
+1617696186 source:d:\essfar\l2\semestre_2\programmation en c++\tp\nombres_complexes\src\complexe.cpp
+	<iostream>
+	"Complexe.h"
+
+1617702030 d:\essfar\l2\semestre_2\programmation en c++\tp\nombres_complexes\include\complexe.h
+	<cmath>
+	<cstdlib>
+
+1617701415 source:d:\essfar\l2\semestre_2\programmation en c++\tp\nombres_complexes\main.cpp
+	<iostream>
+	"Complexe.h"
+

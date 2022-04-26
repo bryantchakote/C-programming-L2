@@ -1,0 +1,18 @@
+13060219032,Tchakote Noumbissi,Manuel Bryan,M,18,15
+13060219032,Ndom Nyambe,Marie-Celine,F,17,17
+13060219032,Bill Nelson,Kedi A Baban,M,20,16
+13060219032,Mbiemeni Tchomenguing,Dimitri,M,19,8
+13060219032,Ewodo,Martial,M,20,12
+13060219032,Happi Youmbi,Donald Haris,M,19,17
+13060219032,Tatsinkou Djuka,Leslie,F,20,1
+13060219032,Wouelebak,Daniela Pierette,F,18,7
+13060219032,Dzoupet,Frank Andy,M,17,9
+13060219032,Nanfah,Anais,F,20,11
+13060219032,Fezeu,Wesley Jordan,M,21,12
+13060219032,Kamdem Kamwa,Josue Emmanuel,M,19,5
+13060219032,Kamga,Audrey,F,18,18
+13060219032,Fotio,Stacey,F,19,3
+11223344556,Aicha,Ousseini,F,18,12
+21212121212,Nieche,Gilles,M,19,10
+33334444455,Fotso,Rith Stephane,M,19,9
+11122233344,Tchantcho Bertrand,Oyono,m,34,15

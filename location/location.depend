@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1617717923 source:d:\essfar\l2\semestre_2\programmation en c++\tp\location\main.cpp
+	<iostream>
+	"Emplacement.h"
+	"Point.h"
+
+1617713701 d:\essfar\l2\semestre_2\programmation en c++\tp\location\include\emplacement.h
+
+1617717418 source:d:\essfar\l2\semestre_2\programmation en c++\tp\location\src\emplacement.cpp
+	<iostream>
+	"Emplacement.h"
+
+1617715719 d:\essfar\l2\semestre_2\programmation en c++\tp\location\include\point.h
+	"Emplacement.h"
+	<string>
+
+1617717073 source:d:\essfar\l2\semestre_2\programmation en c++\tp\location\src\point.cpp
+	<iostream>
+	"Point.h"
+
